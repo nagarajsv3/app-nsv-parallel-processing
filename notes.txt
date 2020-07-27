@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/2016083/what-is-the-easiest-way-to-parallelize-a-task-in-java
+
+Streams are designed for data parallelism, not task parallelism. See stackoverflow.com/a/23370799/208288
